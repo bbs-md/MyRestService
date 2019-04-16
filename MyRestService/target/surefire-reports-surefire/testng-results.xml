@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" total="13" passed="13">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="2215" started-at="2019-04-16T17:11:16Z" finished-at="2019-04-16T17:11:18Z">
+  <suite name="Suite1" duration-ms="2971" started-at="2019-04-16T19:50:07Z" finished-at="2019-04-16T19:50:10Z">
     <groups>
       <group name="a">
         <method signature="CreatingTaskTest.createInvalidItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidItemTest" class="test.java.testStatus.CreatingTaskTest"/>
@@ -22,13 +22,13 @@
         <method signature="GettingTaskTest.getEmptyListItemsTest(java.util.List)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getEmptyListItemsTest" class="test.java.testStatus.GettingTaskTest"/>
       </group> <!-- b -->
     </groups>
-    <test name="Second" duration-ms="2215" started-at="2019-04-16T17:11:16Z" finished-at="2019-04-16T17:11:18Z">
+    <test name="Second" duration-ms="2971" started-at="2019-04-16T19:50:07Z" finished-at="2019-04-16T19:50:10Z">
       <class name="test.java.testStatus.UpdateTaskTest">
-        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBaseUri -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="updateInvalidDataTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalidDataTest" duration-ms="105" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="updateInvalidDataTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalidDataTest" duration-ms="126" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateInvalidDataTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -61,7 +61,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -72,7 +72,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="updateInvalideIdItemTest(java.util.List)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalideIdItemTest" duration-ms="248" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="updateInvalideIdItemTest(java.util.List)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalideIdItemTest" duration-ms="151" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -83,7 +83,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateInvalideIdItemTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -94,7 +94,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -105,7 +105,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="updateItemTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateItemTest" duration-ms="250" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="updateItemTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateItemTest" duration-ms="229" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -116,7 +116,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateItemTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -127,21 +127,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setAfterClass -->
       </class> <!-- test.java.testStatus.UpdateTaskTest -->
       <class name="test.java.testStatus.DeleteItemTest">
-        <test-method status="PASS" signature="beforeSuit()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeSuit" is-config="true" duration-ms="2930" started-at="2019-04-16T20:11:13Z" finished-at="2019-04-16T20:11:16Z">
+        <test-method status="PASS" signature="beforeSuit()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeSuit" is-config="true" duration-ms="5304" started-at="2019-04-16T22:50:02Z" finished-at="2019-04-16T22:50:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuit -->
-        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:07Z" finished-at="2019-04-16T22:50:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBaseUri -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-04-16T22:50:07Z" finished-at="2019-04-16T22:50:07Z">
           <params>
             <param index="0">
               <value>
@@ -152,7 +152,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="deleteInvalideItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteInvalideItemTest" duration-ms="449" started-at="2019-04-16T20:11:16Z" data-provider="dataXls" finished-at="2019-04-16T20:11:16Z">
+        <test-method status="PASS" signature="deleteInvalideItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteInvalideItemTest" duration-ms="938" started-at="2019-04-16T22:50:07Z" data-provider="dataXls" finished-at="2019-04-16T22:50:08Z">
           <params>
             <param index="0">
               <value>
@@ -163,7 +163,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteInvalideItemTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:08Z" finished-at="2019-04-16T22:50:08Z">
           <params>
             <param index="0">
               <value>
@@ -174,7 +174,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:08Z" finished-at="2019-04-16T22:50:08Z">
           <params>
             <param index="0">
               <value>
@@ -185,7 +185,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="deleteItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteItemTest" duration-ms="132" started-at="2019-04-16T20:11:16Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="deleteItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteItemTest" duration-ms="145" started-at="2019-04-16T22:50:08Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -196,7 +196,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteItemTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -207,32 +207,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setAfterClass -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterSuite" is-config="true" duration-ms="1569" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:19Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterSuite" is-config="true" duration-ms="2090" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- test.java.testStatus.DeleteItemTest -->
       <class name="test.java.testStatus.CreatingTaskTest">
-        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBaseUri -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createInvalidItemTest(java.util.List)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="createInvalidItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidItemTest" duration-ms="33" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="createInvalidItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidItemTest" duration-ms="27" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -243,7 +232,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createInvalidItemTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createInvalidItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -254,7 +254,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -265,7 +265,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="createInvalidStateTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidStateTest" duration-ms="30" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="createInvalidStateTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidStateTest" duration-ms="33" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -276,7 +276,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createInvalidStateTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -287,7 +287,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -298,7 +298,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="createItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createItemTest" duration-ms="148" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="createItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createItemTest" duration-ms="138" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -309,7 +309,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createItemTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -320,7 +320,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -331,7 +331,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="createWithEmptyBodyTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createWithEmptyBodyTest" duration-ms="37" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="createWithEmptyBodyTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createWithEmptyBodyTest" duration-ms="44" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -342,7 +342,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createWithEmptyBodyTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -353,28 +353,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setAfterClass -->
       </class> <!-- test.java.testStatus.CreatingTaskTest -->
       <class name="test.java.testStatus.GettingTaskTest">
-        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBaseUri -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemByIdTest(java.util.Map)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="getItemByIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByIdTest" duration-ms="93" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="getItemByIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByIdTest" duration-ms="132" started-at="2019-04-16T22:50:09Z" data-provider="dataXls" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -385,7 +374,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getItemByIdTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:09Z" finished-at="2019-04-16T22:50:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemByIdTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -396,7 +396,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -407,7 +407,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="getItemByInvalidIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByInvalidIdTest" duration-ms="81" started-at="2019-04-16T20:11:18Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="getItemByInvalidIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByInvalidIdTest" duration-ms="102" started-at="2019-04-16T22:50:10Z" data-provider="dataXls" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -418,7 +418,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getItemByInvalidIdTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -429,7 +429,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -440,7 +440,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="getItemsTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemsTest" duration-ms="84" started-at="2019-04-16T20:11:18Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="getItemsTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemsTest" duration-ms="97" started-at="2019-04-16T22:50:10Z" data-provider="dataXls" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -451,7 +451,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getItemsTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -462,7 +462,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -473,7 +473,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="getEmptyListItemsTest(java.util.List)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getEmptyListItemsTest" duration-ms="76" depends-on-groups="a" started-at="2019-04-16T20:11:18Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="getEmptyListItemsTest(java.util.List)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getEmptyListItemsTest" duration-ms="140" depends-on-groups="a" started-at="2019-04-16T22:50:10Z" data-provider="dataXls" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -484,7 +484,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getEmptyListItemsTest -->
-        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAfterClass -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T22:50:10Z" finished-at="2019-04-16T22:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -495,10 +499,6 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setAfterClass -->
       </class> <!-- test.java.testStatus.GettingTaskTest -->
     </test> <!-- Second -->
   </suite> <!-- Suite1 -->

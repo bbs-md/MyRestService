@@ -305,3 +305,9 @@
 2019-04-16 20:11:17 INFO  updateInvalideIdItemTest - ASSERT response_cod=404  = = expected_cod=404
 2019-04-16 20:11:17 INFO  updateInvalideIdItemTest - ASSERT response_message=Error update item with id:103  = = expected_message=Error update item with id:103
 2019-04-16 20:11:17 INFO  updateInvalideIdItemTest - E_N_D TESTING method updateInvalideIdItemTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 22:50:09 INFO  updateInvalideIdItemTest - 4 - STARTING TESTING method updateInvalideIdItemTest() | time:16.04.19 22:50 | Thread id is: 10
+2019-04-16 22:50:09 INFO  updateInvalideIdItemTest - UPDATE id=103
+2019-04-16 22:50:09 INFO  updateInvalideIdItemTest -  ** method updateInvalideIdItemTest() __ PASSED
+2019-04-16 22:50:09 INFO  updateInvalideIdItemTest - ASSERT response_cod=404  = = expected_cod=404
+2019-04-16 22:50:09 INFO  updateInvalideIdItemTest - ASSERT response_message=Error update item with id:103  = = expected_message=Error update item with id:103
+2019-04-16 22:50:09 INFO  updateInvalideIdItemTest - E_N_D TESTING method updateInvalideIdItemTest() | time:16.04.19 22:50 | Thread id is: 10

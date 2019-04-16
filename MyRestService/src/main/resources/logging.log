@@ -44237,3 +44237,17 @@
 2019-04-16 20:11:18 INFO  ServController:48 - new Task is created with id:7
 2019-04-16 20:11:18 INFO  ServController:171 - list of tasks was deleted
 2019-04-16 20:11:18 WARN  ServController:85 - List is empty
+2019-04-16 22:50:06 WARN  ServController:85 - List is empty
+2019-04-16 22:50:08 INFO  ServController:48 - new Task is created with id:1
+2019-04-16 22:50:08 WARN  ServController:189 - attempt to create delete event with null entity
+2019-04-16 22:50:08 INFO  ServController:48 - new Task is created with id:2
+2019-04-16 22:50:09 INFO  ServController:48 - new Task is created with id:3
+2019-04-16 22:50:09 WARN  ServController:152 - 
+2019-04-16 22:50:09 INFO  ServController:48 - new Task is created with id:4
+2019-04-16 22:50:09 INFO  ServController:143 - object task with id:4 was update succesufuly
+2019-04-16 22:50:09 INFO  ServController:48 - new Task is created with id:5
+2019-04-16 22:50:09 INFO  ServController:48 - new Task is created with id:6
+2019-04-16 22:50:10 WARN  ServController:127 - Item with id:106 was not found
+2019-04-16 22:50:10 INFO  ServController:48 - new Task is created with id:7
+2019-04-16 22:50:10 INFO  ServController:171 - list of tasks was deleted
+2019-04-16 22:50:10 WARN  ServController:85 - List is empty

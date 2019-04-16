@@ -320,3 +320,10 @@
 2019-04-16 20:11:18 INFO  getEmptyListItemsTest - ASSERT response_cod:404 = = expected_cod:404
 2019-04-16 20:11:18 INFO  getEmptyListItemsTest - ASSERT expectedResponse:the lists of tasks is empty = = expectedResponse:the lists of tasks is empty
 2019-04-16 20:11:18 INFO  getEmptyListItemsTest - E_N_D TESTING method getEmptyListItemsTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 22:50:10 INFO  getEmptyListItemsTest - 13 - STARTING TESTING method getEmptyListItemsTest() | time:16.04.19 22:50 | Thread id is: 10
+2019-04-16 22:50:10 INFO  getEmptyListItemsTest - DELETE list of task
+2019-04-16 22:50:10 INFO  getEmptyListItemsTest - TEST expected message 'the lists of tasks is empy'
+2019-04-16 22:50:10 INFO  getEmptyListItemsTest -  ** method getEmptyListItemsTest() __ PASSED
+2019-04-16 22:50:10 INFO  getEmptyListItemsTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-16 22:50:10 INFO  getEmptyListItemsTest - ASSERT expectedResponse:the lists of tasks is empty = = expectedResponse:the lists of tasks is empty
+2019-04-16 22:50:10 INFO  getEmptyListItemsTest - E_N_D TESTING method getEmptyListItemsTest() | time:16.04.19 22:50 | Thread id is: 10

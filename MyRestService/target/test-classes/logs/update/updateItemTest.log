@@ -477,3 +477,15 @@
 2019-04-16 20:10:51 INFO  updateItemTest - ASSERT update id=4 == expected id=4
 2019-04-16 20:10:51 INFO  updateItemTest - ASSERT update item=New object for update UPDATE OKKK == expected item=New object for update UPDATE OKKK
 2019-04-16 20:10:51 INFO  updateItemTest - E_N_D TESTING method updateItemTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:11:17 INFO  updateItemTest - 5 - STARTING TESTING method updateItemTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 20:11:17 INFO  updateItemTest - CREATE 3 tasks
+2019-04-16 20:11:17 INFO  updateItemTest - GET size of list task = 2
+2019-04-16 20:11:17 INFO  updateItemTest - CREATE create new Task{New object for update : true}
+2019-04-16 20:11:17 INFO  updateItemTest - CREATE new task ID=4 | response_cod:201 | res_mes:id:4, task:New object for update, state:true, datetime:16.04.19 20:11 | mes_cod:+4
+2019-04-16 20:11:17 INFO  updateItemTest - UPDATE task id=4
+2019-04-16 20:11:17 INFO  updateItemTest - ASSERT response_cod:200 = = status_cod:200
+2019-04-16 20:11:17 INFO  updateItemTest -  ** method updateItemTest() __ PASSED
+2019-04-16 20:11:17 INFO  updateItemTest - ASSERT update id=4 == expected id=4
+2019-04-16 20:11:17 INFO  updateItemTest - ASSERT update item=New object for update UPDATE OKKK == expected item=New object for update UPDATE OKKK
+2019-04-16 20:11:17 INFO  updateItemTest - E_N_D TESTING method updateItemTest() | time:16.04.19 20:11 | Thread id is: 10
+od

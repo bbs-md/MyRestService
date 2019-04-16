@@ -299,3 +299,10 @@
 2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
 2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
 2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:11:18 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 20:11:18 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-16 20:11:18 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-16 20:11:18 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-16 20:11:18 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-16 20:11:18 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-16 20:11:18 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:16.04.19 20:11 | Thread id is: 10

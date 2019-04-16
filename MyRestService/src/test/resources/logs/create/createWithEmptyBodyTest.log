@@ -262,3 +262,9 @@
 2019-04-16 20:11:17 INFO  createWithEmptyBodyTest - ASSERT response_cod:400 = = expected_cod:400
 2019-04-16 20:11:17 INFO  createWithEmptyBodyTest - ASSERT response_message:object is null = = expected_message:object is null
 2019-04-16 20:11:17 INFO  createWithEmptyBodyTest - E_N_D TESTING method createWithEmptyBodyTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 22:50:09 INFO  createWithEmptyBodyTest - 9 - STARTING TESTING method createWithEmptyBodyTest() | time:16.04.19 22:50 | Thread id is: 10
+2019-04-16 22:50:09 INFO  createWithEmptyBodyTest - CREATE createWithEmptyBodyTest() // create new Task with empty body
+2019-04-16 22:50:09 INFO  createWithEmptyBodyTest -  ** method createWithEmptyBodyTest() __ PASSED
+2019-04-16 22:50:09 INFO  createWithEmptyBodyTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-16 22:50:09 INFO  createWithEmptyBodyTest - ASSERT response_message:object is null = = expected_message:object is null
+2019-04-16 22:50:09 INFO  createWithEmptyBodyTest - E_N_D TESTING method createWithEmptyBodyTest() | time:16.04.19 22:50 | Thread id is: 10

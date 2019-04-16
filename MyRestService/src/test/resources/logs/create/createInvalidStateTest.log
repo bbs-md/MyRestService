@@ -262,3 +262,9 @@
 2019-04-16 20:11:17 INFO  createInvalidStateTest - ASSERT There is 'JSON parse error' in answer response
 2019-04-16 20:11:17 INFO  createInvalidStateTest -  ** method createInvalidStateTest() __ PASSED
 2019-04-16 20:11:17 INFO  createInvalidStateTest - E_N_D TESTING method createInvalidStateTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 22:50:09 INFO  createInvalidStateTest - 7 - STARTING TESTING method createInvalidStateTest() | time:16.04.19 22:50 | Thread id is: 10
+2019-04-16 22:50:09 INFO  createInvalidStateTest - CREATE createInvalidStateTest() // create new Task with invalide state=flse(false=valide)
+2019-04-16 22:50:09 INFO  createInvalidStateTest - ASSERT response_cod:500 = = status_cod:500
+2019-04-16 22:50:09 INFO  createInvalidStateTest - ASSERT There is 'JSON parse error' in answer response
+2019-04-16 22:50:09 INFO  createInvalidStateTest -  ** method createInvalidStateTest() __ PASSED
+2019-04-16 22:50:09 INFO  createInvalidStateTest - E_N_D TESTING method createInvalidStateTest() | time:16.04.19 22:50 | Thread id is: 10

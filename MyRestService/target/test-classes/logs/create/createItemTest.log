@@ -643,3 +643,18 @@
 2019-04-16 20:10:52 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
 2019-04-16 20:10:52 INFO  createItemTest - ASSERT new state:false = = expected state:false
 2019-04-16 20:10:52 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:11:17 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 20:11:17 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-16 20:11:17 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:16.04.19 20:11",
+  "status" : "5"
+} | response_cod:201
+2019-04-16 20:11:17 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-16 20:11:17 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-16 20:11:17 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-16 20:11:17 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-16 20:11:17 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-16 20:11:17 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:16.04.19 20:11 | Thread id is: 10

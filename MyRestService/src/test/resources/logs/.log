@@ -343,3 +343,5 @@
 2019-04-16 20:10:50 INFO  BaseTest -  ***************  response StatusCode:404
 2019-04-16 20:11:13 INFO  BaseTest - WAKE UP server
 2019-04-16 20:11:15 INFO  BaseTest -  ***************  response StatusCode:404
+2019-04-16 22:50:02 INFO  BaseTest - WAKE UP server
+2019-04-16 22:50:06 INFO  BaseTest -  ***************  response StatusCode:404

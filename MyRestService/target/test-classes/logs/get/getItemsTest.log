@@ -428,3 +428,13 @@
 2019-04-16 20:10:52 INFO  getItemsTest - ASSERT response_cod:200 = = expected_cod:200
 2019-04-16 20:10:52 INFO  getItemsTest - ASSERT expected recieved list of tasks, size not to equal 0:
 2019-04-16 20:10:52 INFO  getItemsTest - E_N_D TESTING method getItemsTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:11:18 INFO  getItemsTest - 12 - STARTING TESTING method getItemsTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 20:11:18 INFO  getItemsTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-16 20:11:18 INFO  getItemsTest - new task response_cod:201
+2019-04-16 20:11:18 INFO  getItemsTest - three Items are created
+2019-04-16 20:11:18 INFO  getItemsTest - TEST getItemsTest() // expected lisk of tasks
+2019-04-16 20:11:18 INFO  getItemsTest - GET list, size:6
+2019-04-16 20:11:18 INFO  getItemsTest -  ** method getItemsTest() __ PASSED
+2019-04-16 20:11:18 INFO  getItemsTest - ASSERT response_cod:200 = = expected_cod:200
+2019-04-16 20:11:18 INFO  getItemsTest - ASSERT expected recieved list of tasks, size not to equal 0:
+2019-04-16 20:11:18 INFO  getItemsTest - E_N_D TESTING method getItemsTest() | time:16.04.19 20:11 | Thread id is: 10
