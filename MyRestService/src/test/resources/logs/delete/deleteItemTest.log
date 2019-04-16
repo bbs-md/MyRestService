@@ -1,0 +1,356 @@
+2019-04-14 13:48:35 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:48:35 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:48:35 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:48:36 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:48 test:deleteItem | mes_cod:+2
+2019-04-14 13:48:36 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:48:36 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:48:36 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:48:36 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:49:07 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:07 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:49:07 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:49:08 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:49 test:deleteItem | mes_cod:+2
+2019-04-14 13:49:08 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:49:08 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:49:08 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:49:08 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:47 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:47 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:49:47 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:49:47 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:49 test:deleteItem | mes_cod:+2
+2019-04-14 13:49:48 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:49:48 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:49:48 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:49:48 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:50:51 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:50:51 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:50:51 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:50:51 INFO  deleteItemTest - CREATE new task ID=6 | response_cod:201 | res_mes:id:6, task:deleteItem, state:false, datetime:14.04.19 13:50 test:deleteItem | mes_cod:+6
+2019-04-14 13:50:51 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:50:51 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:50:51 INFO  deleteItemTest - ASSERT response_messag_cod=6 = = expected_message_cod=6
+2019-04-14 13:50:51 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:51:35 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:35 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:51:35 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:51:35 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:51 test:deleteItem | mes_cod:+2
+2019-04-14 13:51:35 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:51:35 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:51:35 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:51:35 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:46 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:46 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:51:46 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:51:46 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:51 test:deleteItem | mes_cod:+2
+2019-04-14 13:51:46 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:51:46 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:51:46 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:51:46 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:52:35 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:52:35 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:52:35 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:52:35 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:52 test:deleteItem | mes_cod:+2
+2019-04-14 13:52:35 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:52:35 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:52:35 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:52:35 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:52:59 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:52:59 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:52:59 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:52:59 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:52 test:deleteItem | mes_cod:+2
+2019-04-14 13:52:59 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:52:59 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:52:59 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:52:59 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:54:24 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:24 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:54:24 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:54:24 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:54 test:deleteItem | mes_cod:+2
+2019-04-14 13:54:24 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:54:24 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:54:24 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:54:24 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:44 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:44 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:54:44 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:54:44 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:54 test:deleteItem | mes_cod:+2
+2019-04-14 13:54:44 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:54:44 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:54:44 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:54:44 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:56:47 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:56:47 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:56:47 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:56:47 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:56 | mes_cod:+2
+2019-04-14 13:56:47 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:56:47 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:56:47 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:56:47 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:58:14 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:58:14 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:58:14 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:58:14 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:58 | mes_cod:+2
+2019-04-14 13:58:14 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:58:14 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:58:14 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:58:14 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:59:08 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 13:59:08 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 13:59:08 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 13:59:08 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 13:59 | mes_cod:+2
+2019-04-14 13:59:08 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 13:59:08 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 13:59:08 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 13:59:08 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 14:47:48 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:47:48 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 14:47:48 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 14:47:48 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 14:47 | mes_cod:+2
+2019-04-14 14:47:49 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 14:47:49 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 14:47:49 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 14:47:49 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:48:47 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:48:47 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 14:48:47 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 14:48:47 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 14:48 | mes_cod:+2
+2019-04-14 14:48:47 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 14:48:47 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 14:48:47 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 14:48:47 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:49:05 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 14:49:05 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 14:49:05 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 14:49:05 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 14:49 | mes_cod:+2
+2019-04-14 14:49:05 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 14:49:05 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 14:49:05 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 14:49:05 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 15:07:36 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:07:36 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:07:36 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:07:36 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:07 | mes_cod:+2
+2019-04-14 15:07:36 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:07:36 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:07:36 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:07:36 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:13:28 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:13:28 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:13:28 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:13:28 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:13 | mes_cod:+2
+2019-04-14 15:13:28 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:13:28 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:13:28 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:13:28 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:14:44 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:14:44 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:14:44 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:14:44 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:14 | mes_cod:+2
+2019-04-14 15:14:44 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:14:44 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:14:44 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:14:44 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:15:03 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:03 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:15:03 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:15:03 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:15 | mes_cod:+2
+2019-04-14 15:15:03 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:15:03 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:15:03 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:15:03 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:49 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:49 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:15:49 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:15:49 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:15 | mes_cod:+2
+2019-04-14 15:15:49 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:15:49 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:15:49 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:15:49 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:16:26 INFO  deleteItemTest - 1 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:16:26 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:16:26 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:16:26 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:16 | mes_cod:+2
+2019-04-14 15:16:26 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:16:26 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:16:26 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:16:26 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:16:48 INFO  deleteItemTest - 4 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:16:48 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:16:48 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:16:48 INFO  deleteItemTest - CREATE new task ID=4 | response_cod:201 | res_mes:id:4, task:deleteItem, state:false, datetime:14.04.19 15:16 | mes_cod:+4
+2019-04-14 15:16:48 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:16:48 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:16:48 INFO  deleteItemTest - ASSERT response_messag_cod=4 = = expected_message_cod=4
+2019-04-14 15:16:48 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:17:45 INFO  deleteItemTest - 4 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:17 | Thread id is: 11
+2019-04-14 15:17:45 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:17:45 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:17:46 INFO  deleteItemTest - CREATE new task ID=5 | response_cod:201 | res_mes:id:5, task:deleteItem, state:false, datetime:14.04.19 15:17 | mes_cod:+5
+2019-04-14 15:17:46 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:17:46 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:17:46 INFO  deleteItemTest - ASSERT response_messag_cod=5 = = expected_message_cod=5
+2019-04-14 15:17:46 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:17 | Thread id is: 11
+2019-04-14 15:18:08 INFO  deleteItemTest - 1 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:18 | Thread id is: 11
+2019-04-14 15:18:08 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:18:08 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:18:08 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:18 | mes_cod:+2
+2019-04-14 15:18:09 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:18:09 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:18:09 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:18:09 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:18 | Thread id is: 11
+2019-04-14 15:23:19 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:23:19 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:23:19 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:23:19 INFO  deleteItemTest - CREATE new task ID=0 | response_cod:500 | res_mes:Error create Item, datetime:14.04.19 15:23 | mes_cod:+0
+2019-04-14 15:23:19 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:23:20 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:23 | mes_cod:+2
+2019-04-14 15:23:20 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:23:20 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:23:20 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:23:20 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:23:46 INFO  deleteItemTest - 3 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:23:46 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:23:46 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:23:47 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 15:23 | mes_cod:+2
+2019-04-14 15:23:47 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:23:47 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:23:47 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 15:23:47 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:28:49 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:28 | Thread id is: 11
+2019-04-14 15:28:49 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:28:49 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:28:50 INFO  deleteItemTest - CREATE new task ID=3 | response_cod:201 | res_mes:id:3, task:deleteItem, state:false, datetime:14.04.19 15:28 | mes_cod:+3
+2019-04-14 15:28:51 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:28:51 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:28:51 INFO  deleteItemTest - ASSERT response_messag_cod=3 = = expected_message_cod=3
+2019-04-14 15:28:51 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:28 | Thread id is: 11
+2019-04-14 15:29:43 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 15:29 | Thread id is: 11
+2019-04-14 15:29:43 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 15:29:43 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 15:29:43 INFO  deleteItemTest - CREATE new task ID=3 | response_cod:201 | res_mes:id:3, task:deleteItem, state:false, datetime:14.04.19 15:29 | mes_cod:+3
+2019-04-14 15:29:43 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 15:29:43 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 15:29:43 INFO  deleteItemTest - ASSERT response_messag_cod=3 = = expected_message_cod=3
+2019-04-14 15:29:43 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 15:29 | Thread id is: 11
+2019-04-14 16:10:11 INFO  deleteItemTest - 3 - STARTING TESTING method deleteItemTest() | time:14.04.19 16:10 | Thread id is: 11
+2019-04-14 16:10:11 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 16:10:11 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 16:10:12 INFO  deleteItemTest - CREATE new task ID=3 | response_cod:201 | res_mes:id:3, task:deleteItem, state:false, datetime:14.04.19 16:10 | mes_cod:+3
+2019-04-14 16:10:12 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 16:10:12 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 16:10:12 INFO  deleteItemTest - ASSERT response_messag_cod=3 = = expected_message_cod=3
+2019-04-14 16:10:12 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 16:10 | Thread id is: 11
+2019-04-14 16:10:49 INFO  deleteItemTest - 3 - STARTING TESTING method deleteItemTest() | time:14.04.19 16:10 | Thread id is: 11
+2019-04-14 16:10:49 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 16:10:49 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 16:10:50 INFO  deleteItemTest - CREATE new task ID=4 | response_cod:201 | res_mes:id:4, task:deleteItem, state:false, datetime:14.04.19 16:10 | mes_cod:+4
+2019-04-14 16:10:50 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 16:10:50 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 16:10:50 INFO  deleteItemTest - ASSERT response_messag_cod=4 = = expected_message_cod=4
+2019-04-14 16:10:50 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 16:10 | Thread id is: 11
+2019-04-14 16:11:54 INFO  deleteItemTest - 4 - STARTING TESTING method deleteItemTest() | time:14.04.19 16:11 | Thread id is: 11
+2019-04-14 16:11:54 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 16:11:54 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 16:11:54 INFO  deleteItemTest - CREATE new task ID=1 | response_cod:201 | res_mes:id:1, task:deleteItem, state:false, datetime:14.04.19 16:11 | mes_cod:+1
+2019-04-14 16:11:54 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 16:11:54 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 16:11:54 INFO  deleteItemTest - ASSERT response_messag_cod=1 = = expected_message_cod=1
+2019-04-14 16:11:54 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 16:11 | Thread id is: 11
+2019-04-14 16:12:59 INFO  deleteItemTest - 4 - STARTING TESTING method deleteItemTest() | time:14.04.19 16:12 | Thread id is: 11
+2019-04-14 16:12:59 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 16:12:59 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 16:12:59 INFO  deleteItemTest - CREATE new task ID=1 | response_cod:201 | res_mes:id:1, task:deleteItem, state:false, datetime:14.04.19 16:12 | mes_cod:+1
+2019-04-14 16:12:59 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 16:12:59 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 16:12:59 INFO  deleteItemTest - ASSERT response_messag_cod=1 = = expected_message_cod=1
+2019-04-14 16:12:59 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 16:12 | Thread id is: 11
+2019-04-14 16:48:57 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 16:48 | Thread id is: 11
+2019-04-14 16:48:57 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 16:48:57 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 16:48:58 INFO  deleteItemTest - CREATE new task ID=6 | response_cod:201 | res_mes:id:6, task:deleteItem, state:false, datetime:14.04.19 16:48 | mes_cod:+6
+2019-04-14 16:48:58 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 16:48:58 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 16:48:58 INFO  deleteItemTest - ASSERT response_messag_cod=6 = = expected_message_cod=6
+2019-04-14 16:48:58 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 16:48 | Thread id is: 11
+2019-04-14 17:02:12 INFO  deleteItemTest - 1 - STARTING TESTING method deleteItemTest() | time:14.04.19 17:02 | Thread id is: 11
+2019-04-14 17:02:12 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 17:02:12 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 17:02:12 INFO  deleteItemTest - CREATE new task ID=3 | response_cod:201 | res_mes:id:3, task:deleteItem, state:false, datetime:14.04.19 17:02 | mes_cod:+3
+2019-04-14 17:02:13 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 17:02:13 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 17:02:13 INFO  deleteItemTest - ASSERT response_messag_cod=3 = = expected_message_cod=3
+2019-04-14 17:02:13 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 17:02 | Thread id is: 11
+2019-04-14 19:20:02 INFO  deleteItemTest - 3 - STARTING TESTING method deleteItemTest() | time:14.04.19 19:20 | Thread id is: 11
+2019-04-14 19:20:02 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 19:20:02 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 19:20:04 INFO  deleteItemTest - CREATE new task ID=5 | response_cod:201 | res_mes:id:5, task:deleteItem, state:false, datetime:14.04.19 19:20 | mes_cod:+5
+2019-04-14 19:20:04 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 19:20:04 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 19:20:04 INFO  deleteItemTest - ASSERT response_messag_cod=5 = = expected_message_cod=5
+2019-04-14 19:20:04 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 19:20 | Thread id is: 11
+2019-04-14 19:25:47 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 19:25 | Thread id is: 11
+2019-04-14 19:25:47 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 19:25:47 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 19:25:48 INFO  deleteItemTest - CREATE new task ID=1 | response_cod:201 | res_mes:id:1, task:deleteItem, state:false, datetime:14.04.19 19:25 | mes_cod:+1
+2019-04-14 19:25:48 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 19:25:48 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 19:25:48 INFO  deleteItemTest - ASSERT response_messag_cod=1 = = expected_message_cod=1
+2019-04-14 19:25:48 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 19:25 | Thread id is: 11
+2019-04-14 19:26:58 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 19:26 | Thread id is: 11
+2019-04-14 19:26:58 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 19:26:58 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 19:27:03 INFO  deleteItemTest - CREATE new task ID=0 | response_cod:500 | res_mes:Error create Item, datetime:14.04.19 19:26 | mes_cod:+0
+2019-04-14 19:27:03 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 19:27:03 INFO  deleteItemTest - CREATE new task ID=7 | response_cod:201 | res_mes:id:7, task:deleteItem, state:false, datetime:14.04.19 19:27 | mes_cod:+7
+2019-04-14 19:27:03 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 19:27:03 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 19:27:03 INFO  deleteItemTest - ASSERT response_messag_cod=7 = = expected_message_cod=7
+2019-04-14 19:27:03 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 19:27 | Thread id is: 11
+2019-04-14 19:27:42 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:42 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 19:27:42 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 19:27:42 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 19:27 | mes_cod:+2
+2019-04-14 19:27:42 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 19:27:42 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 19:27:42 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 19:27:42 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:28:13 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:28:13 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 19:28:13 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 19:28:13 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 19:28 | mes_cod:+2
+2019-04-14 19:28:14 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 19:28:14 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 19:28:14 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 19:28:14 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:45:09 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-14 19:45:09 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-14 19:45:09 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-14 19:45:09 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:14.04.19 19:45 | mes_cod:+2
+2019-04-14 19:45:09 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-14 19:45:09 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-14 19:45:09 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-14 19:45:09 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-16 20:09:52 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:09:52 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-16 20:09:52 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-16 20:09:52 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:16.04.19 20:09 | mes_cod:+2
+2019-04-16 20:09:53 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-16 20:09:53 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-16 20:09:53 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-16 20:09:53 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:10:51 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:10:51 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-16 20:10:51 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-16 20:10:51 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:16.04.19 20:10 | mes_cod:+2
+2019-04-16 20:10:51 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-16 20:10:51 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-16 20:10:51 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-16 20:10:51 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:11:16 INFO  deleteItemTest - 2 - STARTING TESTING method deleteItemTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 20:11:16 INFO  deleteItemTest - Task // id:0 | item:deleteItem | state:false | datestamp:null
+2019-04-16 20:11:16 INFO  deleteItemTest - CREATE create new Task{deleteItem : false}
+2019-04-16 20:11:16 INFO  deleteItemTest - CREATE new task ID=2 | response_cod:201 | res_mes:id:2, task:deleteItem, state:false, datetime:16.04.19 20:11 | mes_cod:+2
+2019-04-16 20:11:17 INFO  deleteItemTest -  ** method deleteItemTest() __ PASSED
+2019-04-16 20:11:17 INFO  deleteItemTest - ASSERT response_cod=200 = = expected_cod=200
+2019-04-16 20:11:17 INFO  deleteItemTest - ASSERT response_messag_cod=2 = = expected_message_cod=2
+2019-04-16 20:11:17 INFO  deleteItemTest - E_N_D TESTING method deleteItemTest() | time:16.04.19 20:11 | Thread id is: 10

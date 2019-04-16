@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <parameter name="Path_xls"  value="src/main/resources"/>
+    <test name="StatusCode" >
+        <classes>
+            <class name="test.java.testStatus.UpdateTaskTest" />
+        </classes>
+    </test>
+</suite>

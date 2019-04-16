@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="2215" started-at="2019-04-16T17:11:16Z" finished-at="2019-04-16T17:11:18Z">
+    <groups>
+      <group name="a">
+        <method signature="CreatingTaskTest.createInvalidItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidItemTest" class="test.java.testStatus.CreatingTaskTest"/>
+        <method signature="CreatingTaskTest.createInvalidStateTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidStateTest" class="test.java.testStatus.CreatingTaskTest"/>
+        <method signature="CreatingTaskTest.createItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createItemTest" class="test.java.testStatus.CreatingTaskTest"/>
+        <method signature="CreatingTaskTest.createWithEmptyBodyTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createWithEmptyBodyTest" class="test.java.testStatus.CreatingTaskTest"/>
+        <method signature="DeleteItemTest.deleteInvalideItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteInvalideItemTest" class="test.java.testStatus.DeleteItemTest"/>
+        <method signature="DeleteItemTest.deleteItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteItemTest" class="test.java.testStatus.DeleteItemTest"/>
+        <method signature="GettingTaskTest.getItemByIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByIdTest" class="test.java.testStatus.GettingTaskTest"/>
+        <method signature="GettingTaskTest.getItemByInvalidIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByInvalidIdTest" class="test.java.testStatus.GettingTaskTest"/>
+        <method signature="GettingTaskTest.getItemsTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemsTest" class="test.java.testStatus.GettingTaskTest"/>
+        <method signature="UpdateTaskTest.updateInvalidDataTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalidDataTest" class="test.java.testStatus.UpdateTaskTest"/>
+        <method signature="UpdateTaskTest.updateInvalideIdItemTest(java.util.List)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalideIdItemTest" class="test.java.testStatus.UpdateTaskTest"/>
+        <method signature="UpdateTaskTest.updateItemTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateItemTest" class="test.java.testStatus.UpdateTaskTest"/>
+      </group> <!-- a -->
+      <group name="b">
+        <method signature="GettingTaskTest.getEmptyListItemsTest(java.util.List)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getEmptyListItemsTest" class="test.java.testStatus.GettingTaskTest"/>
+      </group> <!-- b -->
+    </groups>
+    <test name="Second" duration-ms="2215" started-at="2019-04-16T17:11:16Z" finished-at="2019-04-16T17:11:18Z">
+      <class name="test.java.testStatus.UpdateTaskTest">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.UpdateTaskTest.updateInvalidDataTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="updateInvalidDataTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalidDataTest" duration-ms="105" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{updateInvalidDate=[put, 500, /todo/items/{id}, id:0 | item:updateInvalidDate | state:true | datestamp:null, message:JSON parse error: Unrecognized token 'terue': was expecting 'null', 'true', 'false' or NaN; nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'terue': was expecting 'null', 'true', 'false' or NaN\n at [Source: (PushbackInputStream); line: 1, column: 41] | status:], create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateInvalidDataTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.UpdateTaskTest.updateInvalidDataTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.UpdateTaskTest.updateInvalideIdItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="updateInvalideIdItemTest(java.util.List)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateInvalideIdItemTest" duration-ms="248" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[put, 404, /todo/items/{id}, null, message:Error update item with id: | status:404 NOT_FOUND]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateInvalideIdItemTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.UpdateTaskTest.updateInvalideIdItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.UpdateTaskTest.updateItemTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="updateItemTest(java.util.Map)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="updateItemTest" duration-ms="250" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], updateItem=[put, 200, /todo/items/{id}, null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateItemTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.UpdateTaskTest.updateItemTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.UpdateTaskTest@63e2203c]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAfterClass -->
+      </class> <!-- test.java.testStatus.UpdateTaskTest -->
+      <class name="test.java.testStatus.DeleteItemTest">
+        <test-method status="PASS" signature="beforeSuit()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeSuit" is-config="true" duration-ms="2930" started-at="2019-04-16T20:11:13Z" finished-at="2019-04-16T20:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.DeleteItemTest.deleteInvalideItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="deleteInvalideItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteInvalideItemTest" duration-ms="449" started-at="2019-04-16T20:11:16Z" data-provider="dataXls" finished-at="2019-04-16T20:11:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[delete, 404, /todo/items/{id}, id:0 | item:deleteInvalideItem | state:true | datestamp:null, message:attempt to create delete event with null entity | status:404 NOT_FOUND]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteInvalideItemTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.DeleteItemTest.deleteInvalideItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2019-04-16T20:11:16Z" finished-at="2019-04-16T20:11:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.DeleteItemTest.deleteItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="deleteItemTest(java.util.List)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="deleteItemTest" duration-ms="132" started-at="2019-04-16T20:11:16Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[delete, 200, /todo/items/{id}, id:0 | item:deleteItem | state:false | datestamp:null, message: | status:]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteItemTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.DeleteItemTest.deleteItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAfterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.java.testStatus.DeleteItemTest@3224f60b]" name="afterSuite" is-config="true" duration-ms="1569" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.java.testStatus.DeleteItemTest -->
+      <class name="test.java.testStatus.CreatingTaskTest">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createInvalidItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createInvalidItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidItemTest" duration-ms="33" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[post, 400, /todo/item, id:0 | item:invalidCreateItem | state:false | datestamp:null, message:object is null | status:0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createInvalidItemTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createInvalidItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createInvalidStateTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createInvalidStateTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createInvalidStateTest" duration-ms="30" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[post, 500, /todo/item, id:0 | item:invalideCreateStatus | state:false | datestamp:null, message:JSON parse error | status:]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createInvalidStateTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createInvalidStateTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createItemTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createItemTest" duration-ms="148" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[post, 201, /todo/item, id:0 | item:to go on holiday on my Own | state:false | datestamp:null, message:to go on holiday | status:id]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createItemTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createItemTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createWithEmptyBodyTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createWithEmptyBodyTest(java.util.List)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="createWithEmptyBodyTest" duration-ms="37" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[post, 400, /todo/item, id:0 | item:createWithEmptyBody | state:false | datestamp:null, message:object is null | status:]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createWithEmptyBodyTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.CreatingTaskTest.createWithEmptyBodyTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.CreatingTaskTest@1efed156]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAfterClass -->
+      </class> <!-- test.java.testStatus.CreatingTaskTest -->
+      <class name="test.java.testStatus.GettingTaskTest">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:17Z" finished-at="2019-04-16T20:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemByIdTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getItemByIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByIdTest" duration-ms="93" started-at="2019-04-16T20:11:17Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], getItemById=[get, 200, /todo/items/{id}, id:0 | item:getItemById | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemByIdTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemByIdTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemByInvalidIdTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getItemByInvalidIdTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemByInvalidIdTest" duration-ms="81" started-at="2019-04-16T20:11:18Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{getItemByInvalidatedId=[get, 404, /todo/items/{id}, null, message:Item with id:100 was not found | status:id], create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemByInvalidIdTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemByInvalidIdTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemsTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getItemsTest(java.util.Map)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getItemsTest" duration-ms="84" started-at="2019-04-16T20:11:18Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{getItems=[get, 200, /todo/items, null, message: | status:], create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemsTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getItemsTest(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getEmptyListItemsTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getEmptyListItemsTest(java.util.List)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="getEmptyListItemsTest" duration-ms="76" depends-on-groups="a" started-at="2019-04-16T20:11:18Z" data-provider="dataXls" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[get, 404, /todo/items, null, message:the lists of tasks is empty | status:404 NOT_FOUND]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmptyListItemsTest -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.testStatus.GettingTaskTest.getEmptyListItemsTest(java.util.List)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setAfterClass()[pri:0, instance:test.java.testStatus.GettingTaskTest@6737fd8f]" name="setAfterClass" is-config="true" duration-ms="0" started-at="2019-04-16T20:11:18Z" finished-at="2019-04-16T20:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAfterClass -->
+      </class> <!-- test.java.testStatus.GettingTaskTest -->
+    </test> <!-- Second -->
+  </suite> <!-- Suite1 -->
+</testng-results>

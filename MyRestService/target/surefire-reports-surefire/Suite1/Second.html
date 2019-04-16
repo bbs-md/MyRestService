@@ -1,0 +1,144 @@
+<html>
+<head>
+<title>TestNG:  Second</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Second</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>13/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Apr 16 20:11:16 EEST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>2 seconds (2215 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='test.java.testStatus.CreatingTaskTest.createInvalidItemTest()'><b>createInvalidItemTest</b><br>Test class: test.java.testStatus.CreatingTaskTest<br>Parameters: [post, 400, /todo/item, id:0 | item:invalidCreateItem | state:false | datestamp:null, message:object is null | status:0]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.CreatingTaskTest@1efed156</td></tr>
+<tr>
+<td title='test.java.testStatus.CreatingTaskTest.createInvalidStateTest()'><b>createInvalidStateTest</b><br>Test class: test.java.testStatus.CreatingTaskTest<br>Parameters: [post, 500, /todo/item, id:0 | item:invalideCreateStatus | state:false | datestamp:null, message:JSON parse error | status:]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.CreatingTaskTest@1efed156</td></tr>
+<tr>
+<td title='test.java.testStatus.CreatingTaskTest.createItemTest()'><b>createItemTest</b><br>Test class: test.java.testStatus.CreatingTaskTest<br>Parameters: [post, 201, /todo/item, id:0 | item:to go on holiday on my Own | state:false | datestamp:null, message:to go on holiday | status:id]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.CreatingTaskTest@1efed156</td></tr>
+<tr>
+<td title='test.java.testStatus.CreatingTaskTest.createWithEmptyBodyTest()'><b>createWithEmptyBodyTest</b><br>Test class: test.java.testStatus.CreatingTaskTest<br>Parameters: [post, 400, /todo/item, id:0 | item:createWithEmptyBody | state:false | datestamp:null, message:object is null | status:]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.CreatingTaskTest@1efed156</td></tr>
+<tr>
+<td title='test.java.testStatus.DeleteItemTest.deleteInvalideItemTest()'><b>deleteInvalideItemTest</b><br>Test class: test.java.testStatus.DeleteItemTest<br>Parameters: [delete, 404, /todo/items/{id}, id:0 | item:deleteInvalideItem | state:true | datestamp:null, message:attempt to create delete event with null entity | status:404 NOT_FOUND]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.DeleteItemTest@3224f60b</td></tr>
+<tr>
+<td title='test.java.testStatus.DeleteItemTest.deleteItemTest()'><b>deleteItemTest</b><br>Test class: test.java.testStatus.DeleteItemTest<br>Parameters: [delete, 200, /todo/items/{id}, id:0 | item:deleteItem | state:false | datestamp:null, message: | status:]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.DeleteItemTest@3224f60b</td></tr>
+<tr>
+<td title='test.java.testStatus.GettingTaskTest.getEmptyListItemsTest()'><b>getEmptyListItemsTest</b><br>Test class: test.java.testStatus.GettingTaskTest<br>Parameters: [get, 404, /todo/items, null, message:the lists of tasks is empty | status:404 NOT_FOUND]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.GettingTaskTest@6737fd8f</td></tr>
+<tr>
+<td title='test.java.testStatus.GettingTaskTest.getItemByIdTest()'><b>getItemByIdTest</b><br>Test class: test.java.testStatus.GettingTaskTest<br>Parameters: {create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], getItemById=[get, 200, /todo/items/{id}, id:0 | item:getItemById | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.GettingTaskTest@6737fd8f</td></tr>
+<tr>
+<td title='test.java.testStatus.GettingTaskTest.getItemByInvalidIdTest()'><b>getItemByInvalidIdTest</b><br>Test class: test.java.testStatus.GettingTaskTest<br>Parameters: {getItemByInvalidatedId=[get, 404, /todo/items/{id}, null, message:Item with id:100 was not found | status:id], create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.GettingTaskTest@6737fd8f</td></tr>
+<tr>
+<td title='test.java.testStatus.GettingTaskTest.getItemsTest()'><b>getItemsTest</b><br>Test class: test.java.testStatus.GettingTaskTest<br>Parameters: {getItems=[get, 200, /todo/items, null, message: | status:], create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.GettingTaskTest@6737fd8f</td></tr>
+<tr>
+<td title='test.java.testStatus.UpdateTaskTest.updateInvalidDataTest()'><b>updateInvalidDataTest</b><br>Test class: test.java.testStatus.UpdateTaskTest<br>Parameters: {updateInvalidDate=[put, 500, /todo/items/{id}, id:0 | item:updateInvalidDate | state:true | datestamp:null, message:JSON parse error: Unrecognized token 'terue': was expecting 'null', 'true', 'false' or NaN; nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'terue': was expecting 'null', 'true', 'false' or NaN\n at [Source: (PushbackInputStream); line: 1, column: 41] | status:], create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.UpdateTaskTest@63e2203c</td></tr>
+<tr>
+<td title='test.java.testStatus.UpdateTaskTest.updateInvalideIdItemTest()'><b>updateInvalideIdItemTest</b><br>Test class: test.java.testStatus.UpdateTaskTest<br>Parameters: [put, 404, /todo/items/{id}, null, message:Error update item with id: | status:404 NOT_FOUND]</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.UpdateTaskTest@63e2203c</td></tr>
+<tr>
+<td title='test.java.testStatus.UpdateTaskTest.updateItemTest()'><b>updateItemTest</b><br>Test class: test.java.testStatus.UpdateTaskTest<br>Parameters: {create2=[post, 201, /todo/item, id:0 | item:Create Item 2 | state:true | datestamp:null, message: | status:], create3=[post, 201, /todo/item, id:0 | item:Create Item 3 | state:true | datestamp:null, message: | status:], updateItem=[put, 200, /todo/items/{id}, null, message: | status:], create1=[post, 201, /todo/item, id:0 | item:Create Item 1 | state:false | datestamp:null, message: | status:]}</td>
+<td></td>
+<td>0</td>
+<td>test.java.testStatus.UpdateTaskTest@63e2203c</td></tr>
+</table><p>
+</body>
+</html>

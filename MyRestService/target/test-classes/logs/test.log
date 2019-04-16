@@ -1,0 +1,1653 @@
+2019-04-10 00:27:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:27:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:27:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:27:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:27:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:27:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:27:45 INFO  BaseTest - three Items are created
+2019-04-10 00:27:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:27:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:27:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:27:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:27:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:27:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:27:45 INFO  BaseTest - three Items are created
+2019-04-10 00:28:01 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:28:01 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:28:01 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:28:01 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:28:01 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:28:01 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:28:01 INFO  BaseTest - three Items are created
+2019-04-10 00:28:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:28:19 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:28:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:28:19 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:28:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:28:20 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:28:20 INFO  BaseTest - three Items are created
+2019-04-10 00:31:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:31:19 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:31:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:31:20 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:31:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:31:20 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:31:20 INFO  BaseTest - three Items are created
+2019-04-10 00:31:50 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:31:51 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:31:51 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:31:51 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:31:51 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:31:51 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:31:51 INFO  BaseTest - three Items are created
+2019-04-10 00:32:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:32:24 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:32:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:32:25 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:32:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:32:25 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:32:25 INFO  BaseTest - three Items are created
+2019-04-10 00:34:10 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:10 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:11 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:11 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:12 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:12 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:13 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:13 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:14 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:14 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:15 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:15 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:16 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:16 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:17 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:17 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:18 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:18 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:19 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:19 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:20 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:20 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:21 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:21 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:22 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:23 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:24 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:25 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:25 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:26 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:26 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:27 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:27 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:28 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:28 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:29 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:30 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:31 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:31 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:32 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:32 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:500
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:34:33 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:34:33 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:34:33 INFO  BaseTest - three Items are created
+2019-04-10 00:35:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:35:22 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:35:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:35:22 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:35:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:35:22 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:35:22 INFO  BaseTest - three Items are created
+2019-04-10 00:36:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:36:22 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:36:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:36:22 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:36:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:36:22 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:36:22 INFO  BaseTest - three Items are created
+2019-04-10 00:44:42 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:44:42 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:44:42 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:44:42 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:44:42 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:44:42 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:44:42 INFO  BaseTest - three Items are created
+2019-04-10 00:45:01 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:45:02 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:45:02 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:45:02 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:45:02 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:45:02 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:45:02 INFO  BaseTest - three Items are created
+2019-04-10 00:46:01 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:46:01 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:46:01 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:46:01 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:46:01 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:46:01 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:46:01 INFO  BaseTest - three Items are created
+2019-04-10 00:46:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:46:24 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:46:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:46:24 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:46:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:46:24 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:46:24 INFO  BaseTest - three Items are created
+2019-04-10 00:48:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:48:29 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:48:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:48:30 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:48:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:48:30 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:48:30 INFO  BaseTest - three Items are created
+2019-04-10 00:49:22 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:49:22 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:49:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:49:23 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:49:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:49:23 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:49:23 INFO  BaseTest - three Items are created
+2019-04-10 00:51:42 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:51:43 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:51:43 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:51:43 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:51:43 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:51:43 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:51:43 INFO  BaseTest - three Items are created
+2019-04-10 00:52:54 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:52:54 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:52:54 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:52:55 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:52:55 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:52:55 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:52:55 INFO  BaseTest - three Items are created
+2019-04-10 00:56:29 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:56:29 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:56:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:56:30 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:56:30 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:56:30 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:56:30 INFO  BaseTest - three Items are created
+2019-04-10 00:58:50 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:58:51 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:58:51 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:58:51 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:58:51 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:58:51 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:58:51 INFO  BaseTest - three Items are created
+2019-04-10 00:59:23 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:59:24 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:59:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:59:24 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:59:24 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:59:24 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:59:24 INFO  BaseTest - three Items are created
+2019-04-10 00:59:44 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 00:59:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:59:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 00:59:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:59:45 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 00:59:45 INFO  BaseTest - new task response_cod:201
+2019-04-10 00:59:45 INFO  BaseTest - three Items are created
+2019-04-10 01:00:08 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 01:00:08 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:00:08 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 01:00:09 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:00:09 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 01:00:09 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:00:09 INFO  BaseTest - three Items are created
+2019-04-10 01:00:54 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 01:00:54 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:00:55 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 01:00:55 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:00:55 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 01:00:55 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:00:55 INFO  BaseTest - three Items are created
+2019-04-10 01:01:34 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 2 | state:true | datestamp:null
+2019-04-10 01:01:34 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:01:35 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 3 | state:true | datestamp:null
+2019-04-10 01:01:35 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:01:35 INFO  BaseTest - CREATE new task:id:0 | item:Create Item 1 | state:false | datestamp:null
+2019-04-10 01:01:35 INFO  BaseTest - new task response_cod:201
+2019-04-10 01:01:35 INFO  BaseTest - three Items are created

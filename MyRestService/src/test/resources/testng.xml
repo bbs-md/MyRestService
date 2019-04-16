@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1" parallel="methods" thread-count="1">
+    <parameter name="FileXls"  value="src/main/resources/file_1.xlsx"/>
+
+
+    <test name="Second" >
+       <classes>
+            <class name="test.java.testStatus.DeleteItemTest">
+                <methods>
+                    <include name="getAllTest_1"/>
+                </methods>
+            </class>
+
+            <class name="test.java.testStatus.UpdateTaskTest">
+                <methods>
+                    <include name="updateInvalideIdItemTest_1"/>
+                </methods>
+
+            </class>
+            <class name="test.java.testStatus.CreatingTaskTest">
+                <methods>
+                    <include name="createItemTest_1"/>
+                </methods>
+            </class>
+
+           <class name="test.java.testStatus.GettingTaskTest">
+                <methods>
+                    <include name="getItemByInvalidIdTest_1"/>
+                </methods>
+            </class>
+        </classes>
+
+    </test>
+    <!--<test name="First" >
+        <classes>
+            <class name="test.java.testStatus.GettingTaskTest">
+                <methods>
+                    <include name="getItemByInvalidIdTest_1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>-->
+</suite>

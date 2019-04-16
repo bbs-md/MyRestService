@@ -1,0 +1,258 @@
+2019-04-14 13:48:37 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:48:37 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:48:37 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:48:37 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:48:37 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:48:37 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:49:09 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:09 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:49:09 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:49:09 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:49:09 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:49:09 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:48 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:48 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:49:48 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:49:48 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:49:48 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:49:48 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:50:51 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:50:51 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:50:51 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:50:51 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:50:51 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:50:51 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:51:35 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:35 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:51:35 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:51:35 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:51:35 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:51:35 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:46 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:46 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:51:46 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:51:46 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:51:46 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:51:46 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:52:36 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:52:36 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:52:36 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:52:36 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:52:36 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:52:36 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:53:00 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:53 | Thread id is: 10
+2019-04-14 13:53:00 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:53:00 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:53:00 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:53:00 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:53:00 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:53 | Thread id is: 10
+2019-04-14 13:54:25 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:25 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:54:25 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:54:25 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:54:25 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:54:25 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:45 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:45 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:54:45 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:54:45 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:54:45 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:54:45 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:56:47 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:56:47 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:56:47 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:56:47 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:56:47 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:56:47 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:58:15 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:58:15 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:58:15 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:58:15 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:58:15 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:58:15 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:59:08 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 13:59:08 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 13:59:09 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 13:59:09 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 13:59:09 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 13:59:09 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 14:47:49 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:47:49 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 14:47:49 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 14:47:49 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 14:47:49 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 14:47:49 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:48:47 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:48:47 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 14:48:47 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 14:48:47 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 14:48:47 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 14:48:47 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:49:06 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 14:49:06 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 14:49:06 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 14:49:06 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 14:49:06 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 14:49:06 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 15:07:36 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:07:36 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:07:36 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:07:36 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:07:36 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:07:36 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:13:28 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:13:28 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:13:28 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:13:28 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:13:28 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:13:28 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:14:45 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:14:45 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:14:45 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:14:45 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:14:45 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:14:45 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:15:04 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:04 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:15:04 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:15:04 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:15:04 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:15:04 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:50 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:50 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:15:50 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:15:50 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:15:50 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:15:50 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:16:26 INFO  createInvalidItemTest - 7 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:16:26 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:16:26 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:16:26 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:16:26 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:16:26 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:16:48 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:16 | Thread id is: 10
+2019-04-14 15:16:48 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:16:48 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:16:48 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:16:48 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:16:48 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:16 | Thread id is: 10
+2019-04-14 15:17:46 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:17 | Thread id is: 10
+2019-04-14 15:17:46 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:17:46 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:17:46 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:17:46 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:17:46 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:17 | Thread id is: 10
+2019-04-14 15:18:09 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:18 | Thread id is: 11
+2019-04-14 15:18:09 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:18:09 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:18:09 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:18:09 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:18:09 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:18 | Thread id is: 11
+2019-04-14 15:23:20 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:23:20 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:23:20 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:23:20 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:23:20 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:23:20 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:23:47 INFO  createInvalidItemTest - 7 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:23 | Thread id is: 10
+2019-04-14 15:23:47 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:23:47 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:23:47 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:23:47 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:23:47 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:23 | Thread id is: 10
+2019-04-14 15:28:50 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:28 | Thread id is: 10
+2019-04-14 15:28:50 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:28:50 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:28:50 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:28:50 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:28:50 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:28 | Thread id is: 10
+2019-04-14 15:29:43 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 15:29 | Thread id is: 12
+2019-04-14 15:29:43 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 15:29:43 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 15:29:43 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 15:29:43 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 15:29:43 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 15:29 | Thread id is: 12
+2019-04-14 16:10:12 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 16:10 | Thread id is: 13
+2019-04-14 16:10:12 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 16:10:13 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 16:10:13 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 16:10:13 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 16:10:13 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 16:10 | Thread id is: 13
+2019-04-14 16:10:50 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 16:10 | Thread id is: 12
+2019-04-14 16:10:50 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 16:10:50 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 16:10:50 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 16:10:50 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 16:10:50 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 16:10 | Thread id is: 12
+2019-04-14 16:11:54 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 16:11 | Thread id is: 11
+2019-04-14 16:11:54 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 16:11:54 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 16:11:54 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 16:11:54 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 16:11:54 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 16:11 | Thread id is: 11
+2019-04-14 16:12:59 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 16:12 | Thread id is: 11
+2019-04-14 16:12:59 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 16:12:59 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 16:12:59 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 16:12:59 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 16:12:59 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 16:12 | Thread id is: 11
+2019-04-14 16:48:57 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 16:48 | Thread id is: 10
+2019-04-14 16:48:57 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 16:48:58 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 16:48:58 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 16:48:58 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 16:48:58 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 16:48 | Thread id is: 10
+2019-04-14 17:02:13 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 17:02 | Thread id is: 11
+2019-04-14 17:02:13 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 17:02:13 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 17:02:13 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 17:02:13 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 17:02:13 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 17:02 | Thread id is: 11
+2019-04-14 19:20:04 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 19:20 | Thread id is: 12
+2019-04-14 19:20:04 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 19:20:04 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 19:20:04 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 19:20:04 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 19:20:04 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 19:20 | Thread id is: 12
+2019-04-14 19:25:48 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 19:25 | Thread id is: 10
+2019-04-14 19:25:48 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 19:25:49 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 19:25:49 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 19:25:49 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 19:25:49 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 19:25 | Thread id is: 10
+2019-04-14 19:27:01 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:01 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 19:27:01 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 19:27:01 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 19:27:01 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 19:27:01 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:43 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:43 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 19:27:43 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 19:27:43 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 19:27:43 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 19:27:43 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:28:15 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:28:15 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 19:28:15 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 19:28:15 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 19:28:15 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 19:28:15 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:45:10 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-14 19:45:10 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-14 19:45:11 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-14 19:45:11 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-14 19:45:11 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-14 19:45:11 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-16 20:09:53 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:09:53 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-16 20:09:53 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-16 20:09:53 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-16 20:09:53 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-16 20:09:53 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:10:51 INFO  createInvalidItemTest - 6 - STARTING TESTING method createInvalidItemTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:10:51 INFO  createInvalidItemTest - CREATE create new Task with invalide parmeter of name=items(item=valide)
+2019-04-16 20:10:51 INFO  createInvalidItemTest -  ** method createInvalidItemTest() __ PASSED
+2019-04-16 20:10:51 INFO  createInvalidItemTest - ASSERT response_cod:400 = = expected_cod:400
+2019-04-16 20:10:51 INFO  createInvalidItemTest - ASSERT expectedResponse:object is null = = expectedResponse:object is null
+2019-04-16 20:10:51 INFO  createInvalidItemTest - E_N_D TESTING method createInvalidItemTest() | time:16.04.19 20:10 | Thread id is: 10

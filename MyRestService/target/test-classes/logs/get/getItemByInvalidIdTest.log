@@ -1,0 +1,301 @@
+2019-04-14 13:48:38 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:48:38 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:48:38 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:48:38 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:48:38 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:48:38 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:48:38 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:49:10 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:10 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:49:10 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:49:10 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:49:10 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:49:10 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:49:10 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:49 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:49 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:49:49 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:49:49 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:49:49 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:49:49 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:49:49 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:50:52 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:50:52 INFO  getItemByInvalidIdTest - GET get list of tasks, size:9
+2019-04-14 13:50:52 INFO  getItemByInvalidIdTest - SET id=110, last id is 10
+2019-04-14 13:50:52 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:50:52 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:50:52 INFO  getItemByInvalidIdTest - ASSERT get message_status:110 = = expected message_status:110
+2019-04-14 13:50:52 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:51:36 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:36 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:51:36 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:51:36 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:51:36 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:51:36 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:51:36 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:47 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:47 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:51:47 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:51:47 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:51:47 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:51:47 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:51:47 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:52:37 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:52:37 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:52:37 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:52:37 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:52:37 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:52:37 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:52:37 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:53:00 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:53 | Thread id is: 10
+2019-04-14 13:53:00 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:53:00 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:53:00 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:53:00 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:53:00 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:53:00 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:53 | Thread id is: 10
+2019-04-14 13:54:25 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:25 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:54:25 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:54:25 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:54:25 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:54:25 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:54:25 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:45 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:45 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:54:45 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:54:45 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:54:45 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:54:45 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:54:45 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:56:48 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:56:48 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:56:48 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:56:48 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:56:48 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:56:48 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:56:48 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:58:15 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:58:15 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:58:15 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:58:15 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:58:15 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:58:15 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:58:15 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:59:09 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 13:59:09 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 13:59:09 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 13:59:09 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 13:59:09 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 13:59:09 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 13:59:09 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 14:47:49 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:47:49 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 14:47:49 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 14:47:49 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 14:47:49 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 14:47:49 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 14:47:49 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:48:47 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:48:48 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 14:48:48 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 14:48:48 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 14:48:48 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 14:48:48 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 14:48:48 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:49:06 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 14:49:06 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 14:49:06 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 14:49:06 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 14:49:06 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 14:49:06 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 14:49:06 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 15:07:37 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:07:37 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:07:37 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:07:37 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:07:37 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:07:37 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:07:37 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:13:28 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:13:29 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:13:29 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:13:29 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:13:29 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:13:29 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:13:29 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:14:45 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:14:45 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:14:45 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:14:45 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:14:45 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:14:45 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:14:45 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:15:04 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:04 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:15:04 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:15:04 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:15:04 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:15:04 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:15:04 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:50 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:50 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:15:50 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:15:50 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:15:50 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:15:50 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:15:50 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:16:27 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:16 | Thread id is: 12
+2019-04-14 15:16:27 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:16:27 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:16:27 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:16:27 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:16:27 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:16:27 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:16 | Thread id is: 12
+2019-04-14 15:16:49 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:16 | Thread id is: 13
+2019-04-14 15:16:49 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:16:49 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:16:49 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:16:49 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:16:49 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:16:49 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:16 | Thread id is: 13
+2019-04-14 15:17:46 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:17 | Thread id is: 12
+2019-04-14 15:17:47 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 15:17:47 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 15:17:47 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:17:47 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:17:47 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 15:17:47 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:17 | Thread id is: 12
+2019-04-14 15:18:09 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:18 | Thread id is: 12
+2019-04-14 15:18:09 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 15:18:09 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 15:18:09 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:18:09 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:18:09 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 15:18:09 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:18 | Thread id is: 12
+2019-04-14 15:23:20 INFO  getItemByInvalidIdTest - 10 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:23 | Thread id is: 12
+2019-04-14 15:23:20 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 15:23:20 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 15:23:20 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:23:20 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:23:20 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 15:23:20 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:23 | Thread id is: 12
+2019-04-14 15:23:47 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:23 | Thread id is: 10
+2019-04-14 15:23:48 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 15:23:48 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 15:23:48 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:23:48 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:23:48 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 15:23:48 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:23 | Thread id is: 10
+2019-04-14 15:28:51 INFO  getItemByInvalidIdTest - 10 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:28 | Thread id is: 12
+2019-04-14 15:28:51 INFO  getItemByInvalidIdTest - GET get list of tasks, size:6
+2019-04-14 15:28:51 INFO  getItemByInvalidIdTest - SET id=107, last id is 7
+2019-04-14 15:28:51 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:28:51 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:28:51 INFO  getItemByInvalidIdTest - ASSERT get message_status:107 = = expected message_status:107
+2019-04-14 15:28:51 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:28 | Thread id is: 12
+2019-04-14 15:29:43 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 15:29 | Thread id is: 11
+2019-04-14 15:29:44 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 15:29:44 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 15:29:44 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 15:29:44 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 15:29:44 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 15:29:44 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 15:29 | Thread id is: 11
+2019-04-14 16:10:13 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 16:10 | Thread id is: 11
+2019-04-14 16:10:13 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 16:10:13 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 16:10:13 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 16:10:13 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 16:10:13 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 16:10:13 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 16:10 | Thread id is: 11
+2019-04-14 16:10:51 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 16:10 | Thread id is: 12
+2019-04-14 16:10:51 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 16:10:51 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 16:10:51 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 16:10:51 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 16:10:51 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 16:10:51 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 16:10 | Thread id is: 12
+2019-04-14 16:11:55 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 16:11 | Thread id is: 10
+2019-04-14 16:11:55 INFO  getItemByInvalidIdTest - GET get list of tasks, size:6
+2019-04-14 16:11:55 INFO  getItemByInvalidIdTest - SET id=107, last id is 7
+2019-04-14 16:11:55 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 16:11:55 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 16:11:55 INFO  getItemByInvalidIdTest - ASSERT get message_status:107 = = expected message_status:107
+2019-04-14 16:11:55 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 16:11 | Thread id is: 10
+2019-04-14 16:13:00 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 16:13 | Thread id is: 10
+2019-04-14 16:13:00 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 16:13:00 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 16:13:00 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 16:13:00 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 16:13:00 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 16:13:00 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 16:13 | Thread id is: 10
+2019-04-14 16:48:58 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 16:48 | Thread id is: 11
+2019-04-14 16:48:58 INFO  getItemByInvalidIdTest - GET get list of tasks, size:9
+2019-04-14 16:48:58 INFO  getItemByInvalidIdTest - SET id=110, last id is 10
+2019-04-14 16:48:58 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 16:48:58 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 16:48:58 INFO  getItemByInvalidIdTest - ASSERT get message_status:110 = = expected message_status:110
+2019-04-14 16:48:58 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 16:48 | Thread id is: 11
+2019-04-14 17:02:13 INFO  getItemByInvalidIdTest - 10 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 17:02 | Thread id is: 12
+2019-04-14 17:02:13 INFO  getItemByInvalidIdTest - GET get list of tasks, size:7
+2019-04-14 17:02:13 INFO  getItemByInvalidIdTest - SET id=108, last id is 8
+2019-04-14 17:02:13 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 17:02:13 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 17:02:13 INFO  getItemByInvalidIdTest - ASSERT get message_status:108 = = expected message_status:108
+2019-04-14 17:02:13 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 17:02 | Thread id is: 12
+2019-04-14 19:20:04 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 19:20 | Thread id is: 10
+2019-04-14 19:20:05 INFO  getItemByInvalidIdTest - GET get list of tasks, size:8
+2019-04-14 19:20:05 INFO  getItemByInvalidIdTest - SET id=109, last id is 9
+2019-04-14 19:20:05 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 19:20:05 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 19:20:05 INFO  getItemByInvalidIdTest - ASSERT get message_status:109 = = expected message_status:109
+2019-04-14 19:20:05 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 19:20 | Thread id is: 10
+2019-04-14 19:25:49 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 19:25 | Thread id is: 11
+2019-04-14 19:25:49 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 19:25:49 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 19:25:49 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 19:25:49 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 19:25:49 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 19:25:49 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 19:25 | Thread id is: 11
+2019-04-14 19:27:01 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:02 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 19:27:02 INFO  getItemByInvalidIdTest - SET id=105, last id is 5
+2019-04-14 19:27:02 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 19:27:02 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 19:27:02 INFO  getItemByInvalidIdTest - ASSERT get message_status:105 = = expected message_status:105
+2019-04-14 19:27:02 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:44 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:44 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 19:27:44 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 19:27:44 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 19:27:44 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 19:27:44 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 19:27:44 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:28:16 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:28:16 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 19:28:16 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 19:28:16 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 19:28:16 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 19:28:16 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 19:28:16 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:45:11 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-14 19:45:11 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-14 19:45:11 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-14 19:45:11 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-14 19:45:11 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-14 19:45:11 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-14 19:45:11 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-16 20:09:53 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:09:54 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-16 20:09:54 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-16 20:09:54 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-16 20:09:54 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-16 20:09:54 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-16 20:09:54 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - 11 - STARTING TESTING method getItemByInvalidIdTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - GET get list of tasks, size:5
+2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - SET id=106, last id is 6
+2019-04-16 20:10:52 INFO  getItemByInvalidIdTest -  ** method getItemByInvalidIdTest() __ PASSED
+2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - ASSERT response_cod:404 = = expected_cod:404
+2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - ASSERT get message_status:106 = = expected message_status:106
+2019-04-16 20:10:52 INFO  getItemByInvalidIdTest - E_N_D TESTING method getItemByInvalidIdTest() | time:16.04.19 20:10 | Thread id is: 10

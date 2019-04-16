@@ -1,0 +1,660 @@
+2019-04-14 13:48:37 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:48:37 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:48:38 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:48 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:48:38 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:48:38 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:48:38 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:48:38 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:48:38 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:48:38 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:48 | Thread id is: 10
+2019-04-14 13:49:09 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:09 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:49:09 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:49 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:49:09 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:49:09 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:49:09 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:49:09 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:49:09 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:49:09 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:48 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:49:48 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:49:49 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:49 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:49:49 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:49:49 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:49:49 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:49:49 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:49:49 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:49:49 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:49 | Thread id is: 10
+2019-04-14 13:50:51 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:50:51 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:50:51 INFO  createItemTest - RESPONSE: {
+  "message" : "id:9, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:50 test:to go on holiday on my Own",
+  "status" : "9"
+} | response_cod:201
+2019-04-14 13:50:51 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:50:51 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:50:51 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:50:51 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:50:51 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:50:51 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:50 | Thread id is: 10
+2019-04-14 13:51:35 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:35 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:51:36 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:51 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:51:36 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:51:36 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:51:36 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:51:36 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:51:36 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:51:36 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:46 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:51:46 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:51:47 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:51 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:51:47 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:51:47 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:51:47 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:51:47 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:51:47 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:51:47 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:51 | Thread id is: 10
+2019-04-14 13:52:36 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:52:36 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:52:36 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:52 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:52:36 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:52:36 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:52:36 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:52:36 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:52:36 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:52:36 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:52 | Thread id is: 10
+2019-04-14 13:53:00 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:53 | Thread id is: 10
+2019-04-14 13:53:00 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:53:00 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:53 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:53:00 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:53:00 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:53:00 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:53:00 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:53:00 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:53:00 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:53 | Thread id is: 10
+2019-04-14 13:54:25 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:25 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:54:25 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:54 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:54:25 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:54:25 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:54:25 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:54:25 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:54:25 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:54:25 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:45 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:54:45 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:54:45 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:54 test:to go on holiday on my Own",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:54:45 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:54:45 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:54:45 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:54:45 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:54:45 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:54:45 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:54 | Thread id is: 10
+2019-04-14 13:56:47 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:56:47 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:56:47 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:56",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:56:47 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:56:47 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:56:48 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:56:48 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:56:48 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:56:48 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:56 | Thread id is: 10
+2019-04-14 13:58:15 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:58:15 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:58:15 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:58",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:58:15 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:58:15 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:58:15 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:58:15 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:58:15 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:58:15 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:58 | Thread id is: 10
+2019-04-14 13:59:09 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 13:59:09 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 13:59:09 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 13:59",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 13:59:09 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 13:59:09 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 13:59:09 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 13:59:09 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 13:59:09 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 13:59:09 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 13:59 | Thread id is: 10
+2019-04-14 14:47:49 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:47:49 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 14:47:49 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 14:47",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 14:47:49 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 14:47:49 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 14:47:49 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 14:47:49 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 14:47:49 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 14:47:49 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 14:47 | Thread id is: 10
+2019-04-14 14:48:47 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:48:47 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 14:48:47 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 14:48",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 14:48:47 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 14:48:47 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 14:48:47 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 14:48:47 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 14:48:47 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 14:48:47 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 14:48 | Thread id is: 10
+2019-04-14 14:49:06 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 14:49:06 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 14:49:06 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 14:49",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 14:49:06 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 14:49:06 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 14:49:06 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 14:49:06 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 14:49:06 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 14:49:06 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 14:49 | Thread id is: 10
+2019-04-14 15:07:36 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:07:36 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:07:36 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:07",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 15:07:36 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:07:36 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:07:36 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:07:36 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:07:36 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:07:36 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:07 | Thread id is: 10
+2019-04-14 15:13:28 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:13:28 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:13:28 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:13",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 15:13:28 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:13:28 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:13:28 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:13:28 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:13:28 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:13:28 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:13 | Thread id is: 10
+2019-04-14 15:14:45 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:14:45 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:14:45 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:14",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 15:14:45 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:14:45 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:14:45 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:14:45 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:14:45 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:14:45 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:14 | Thread id is: 10
+2019-04-14 15:15:04 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:04 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:15:04 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:15",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 15:15:04 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:15:04 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:15:04 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:15:04 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:15:04 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:15:04 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:50 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:15:50 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:15:50 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:15",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 15:15:50 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:15:50 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:15:50 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:15:50 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:15:50 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:15:50 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:15 | Thread id is: 10
+2019-04-14 15:16:26 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:16:26 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:16:27 INFO  createItemTest - RESPONSE: {
+  "message" : "id:6, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:16",
+  "status" : "6"
+} | response_cod:201
+2019-04-14 15:16:27 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:16:27 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:16:27 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:16:27 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:16:27 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:16:27 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:16 | Thread id is: 11
+2019-04-14 15:16:48 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:16 | Thread id is: 10
+2019-04-14 15:16:48 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:16:49 INFO  createItemTest - RESPONSE: {
+  "message" : "id:6, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:16",
+  "status" : "6"
+} | response_cod:201
+2019-04-14 15:16:49 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:16:49 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:16:49 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:16:49 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:16:49 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:16:49 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:16 | Thread id is: 10
+2019-04-14 15:17:46 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:17 | Thread id is: 10
+2019-04-14 15:17:46 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:17:46 INFO  createItemTest - RESPONSE: {
+  "message" : "id:6, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:17",
+  "status" : "6"
+} | response_cod:201
+2019-04-14 15:17:46 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:17:46 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:17:47 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:17:47 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:17:47 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:17:47 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:17 | Thread id is: 10
+2019-04-14 15:18:09 INFO  createItemTest - 9 - STARTING TESTING method createItemTest() | time:14.04.19 15:18 | Thread id is: 11
+2019-04-14 15:18:09 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:18:09 INFO  createItemTest - RESPONSE: {
+  "message" : "id:6, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:18",
+  "status" : "6"
+} | response_cod:201
+2019-04-14 15:18:09 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:18:09 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:18:09 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:18:09 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:18:09 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:18:09 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:18 | Thread id is: 11
+2019-04-14 15:23:20 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:23:20 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:23:20 INFO  createItemTest - RESPONSE: {
+  "message" : "id:4, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:23",
+  "status" : "4"
+} | response_cod:201
+2019-04-14 15:23:20 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:23:20 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:23:20 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:23:20 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:23:20 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:23:20 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:23 | Thread id is: 11
+2019-04-14 15:23:47 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:23 | Thread id is: 10
+2019-04-14 15:23:47 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:23:47 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:23",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 15:23:47 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:23:47 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:23:47 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:23:47 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:23:47 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:23:47 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:23 | Thread id is: 10
+2019-04-14 15:28:50 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:28 | Thread id is: 10
+2019-04-14 15:28:50 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:28:50 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:28",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 15:28:50 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:28:50 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:28:51 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:28:51 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:28:51 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:28:51 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:28 | Thread id is: 10
+2019-04-14 15:29:43 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 15:29 | Thread id is: 13
+2019-04-14 15:29:43 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 15:29:43 INFO  createItemTest - RESPONSE: {
+  "message" : "id:4, task:to go on holiday on my Own, state:false, datetime:14.04.19 15:29",
+  "status" : "4"
+} | response_cod:201
+2019-04-14 15:29:43 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 15:29:43 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 15:29:43 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 15:29:43 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 15:29:43 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 15:29:43 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 15:29 | Thread id is: 13
+2019-04-14 16:10:12 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 16:10 | Thread id is: 10
+2019-04-14 16:10:13 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 16:10:13 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 16:10",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 16:10:13 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 16:10:13 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 16:10:13 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 16:10:13 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 16:10:13 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 16:10:13 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 16:10 | Thread id is: 10
+2019-04-14 16:10:50 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 16:10 | Thread id is: 12
+2019-04-14 16:10:50 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 16:10:50 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 16:10",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 16:10:50 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 16:10:50 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 16:10:51 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 16:10:51 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 16:10:51 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 16:10:51 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 16:10 | Thread id is: 12
+2019-04-14 16:11:55 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 16:11 | Thread id is: 11
+2019-04-14 16:11:55 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 16:11:55 INFO  createItemTest - RESPONSE: {
+  "message" : "id:4, task:to go on holiday on my Own, state:false, datetime:14.04.19 16:11",
+  "status" : "4"
+} | response_cod:201
+2019-04-14 16:11:55 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 16:11:55 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 16:11:55 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 16:11:55 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 16:11:55 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 16:11:55 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 16:11 | Thread id is: 11
+2019-04-14 16:12:59 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 16:12 | Thread id is: 10
+2019-04-14 16:13:00 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 16:13:00 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 16:13",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 16:13:00 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 16:13:00 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 16:13:00 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 16:13:00 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 16:13:00 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 16:13:00 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 16:13 | Thread id is: 10
+2019-04-14 16:48:58 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 16:48 | Thread id is: 10
+2019-04-14 16:48:58 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 16:48:58 INFO  createItemTest - RESPONSE: {
+  "message" : "id:9, task:to go on holiday on my Own, state:false, datetime:14.04.19 16:48",
+  "status" : "9"
+} | response_cod:201
+2019-04-14 16:48:58 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 16:48:58 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 16:48:58 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 16:48:58 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 16:48:58 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 16:48:58 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 16:48 | Thread id is: 10
+2019-04-14 17:02:13 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 17:02 | Thread id is: 11
+2019-04-14 17:02:13 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 17:02:13 INFO  createItemTest - RESPONSE: {
+  "message" : "id:6, task:to go on holiday on my Own, state:false, datetime:14.04.19 17:02",
+  "status" : "6"
+} | response_cod:201
+2019-04-14 17:02:13 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 17:02:13 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 17:02:13 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 17:02:13 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 17:02:13 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 17:02:13 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 17:02 | Thread id is: 11
+2019-04-14 19:20:04 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 19:20 | Thread id is: 12
+2019-04-14 19:20:04 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 19:20:04 INFO  createItemTest - RESPONSE: {
+  "message" : "id:8, task:to go on holiday on my Own, state:false, datetime:14.04.19 19:20",
+  "status" : "8"
+} | response_cod:201
+2019-04-14 19:20:04 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 19:20:04 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 19:20:05 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 19:20:05 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 19:20:05 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 19:20:05 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 19:20 | Thread id is: 12
+2019-04-14 19:25:49 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 19:25 | Thread id is: 10
+2019-04-14 19:25:49 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 19:25:49 INFO  createItemTest - RESPONSE: {
+  "message" : "id:6, task:to go on holiday on my Own, state:false, datetime:14.04.19 19:25",
+  "status" : "6"
+} | response_cod:201
+2019-04-14 19:25:49 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 19:25:49 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 19:25:49 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 19:25:49 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 19:25:49 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 19:25:49 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 19:25 | Thread id is: 10
+2019-04-14 19:27:01 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:01 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 19:27:01 INFO  createItemTest - RESPONSE: {
+  "message" : "id:4, task:to go on holiday on my Own, state:false, datetime:14.04.19 19:27",
+  "status" : "4"
+} | response_cod:201
+2019-04-14 19:27:01 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 19:27:01 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 19:27:01 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 19:27:01 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 19:27:01 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 19:27:01 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:43 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:27:43 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 19:27:43 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 19:27",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 19:27:43 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 19:27:43 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 19:27:43 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 19:27:43 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 19:27:43 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 19:27:43 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 19:27 | Thread id is: 10
+2019-04-14 19:28:15 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:28:15 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 19:28:15 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 19:28",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 19:28:15 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 19:28:15 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 19:28:15 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 19:28:15 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 19:28:15 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 19:28:15 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 19:28 | Thread id is: 10
+2019-04-14 19:45:11 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-14 19:45:11 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-14 19:45:11 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:14.04.19 19:45",
+  "status" : "5"
+} | response_cod:201
+2019-04-14 19:45:11 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-14 19:45:11 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-14 19:45:11 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-14 19:45:11 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-14 19:45:11 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-14 19:45:11 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:14.04.19 19:45 | Thread id is: 10
+2019-04-16 20:09:53 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:09:53 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-16 20:09:53 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:16.04.19 20:09",
+  "status" : "5"
+} | response_cod:201
+2019-04-16 20:09:53 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-16 20:09:53 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-16 20:09:53 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-16 20:09:53 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-16 20:09:53 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-16 20:09:53 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:16.04.19 20:09 | Thread id is: 10
+2019-04-16 20:10:52 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:10:52 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-16 20:10:52 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:16.04.19 20:10",
+  "status" : "5"
+} | response_cod:201
+2019-04-16 20:10:52 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-16 20:10:52 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-16 20:10:52 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-16 20:10:52 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-16 20:10:52 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-16 20:10:52 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:16.04.19 20:10 | Thread id is: 10
+2019-04-16 20:11:17 INFO  createItemTest - 8 - STARTING TESTING method createItemTest() | time:16.04.19 20:11 | Thread id is: 10
+2019-04-16 20:11:17 INFO  createItemTest - CREATE new task = {
+  "item": "to go on holiday on my Own",
+  "state": false
+}
+2019-04-16 20:11:17 INFO  createItemTest - RESPONSE: {
+  "message" : "id:5, task:to go on holiday on my Own, state:false, datetime:16.04.19 20:11",
+  "status" : "5"
+} | response_cod:201
+2019-04-16 20:11:17 INFO  createItemTest -  ** method createItemTest() __ PASSED
+2019-04-16 20:11:17 INFO  createItemTest - CREATE new task response cod:201 == expected cod:201____ end LOG
+2019-04-16 20:11:17 INFO  createItemTest - createItemTest() - check received new Task
+2019-04-16 20:11:17 INFO  createItemTest - ASSERT new item:'to go on holiday on my Own' = = expected item:to go on holiday on my Own
+2019-04-16 20:11:17 INFO  createItemTest - ASSERT new state:false = = expected state:false
+2019-04-16 20:11:17 INFO  createItemTest - E_N_D TESTING method createItemTest() | time:16.04.19 20:11 | Thread id is: 10
